@@ -1,5 +1,5 @@
-import * as three from "./three_app.js";
-import * as mouse from "./three_mouse.js";
+import * as three from "https://cdn.jsdelivr.net/gh/RomanOliakh/EGO-Landing-Page@3825238/three_app.js";
+import * as mouse from "https://cdn.jsdelivr.net/gh/RomanOliakh/EGO-Landing-Page@3825238/three_mouse.js";
 
 const interactive_meshes = {};
 
